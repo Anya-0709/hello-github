@@ -1,2 +1,5 @@
 # hello-github
 学习如何使用github
+这是在分支readme-edsit中的readme写的
+我正在学习如何使用github
+下一步将对比与分支main的区别
